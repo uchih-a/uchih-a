@@ -1,124 +1,161 @@
-# Fau (Alexia Mureno)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fau%20%E2%80%94%20Alexia%20Mureno&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%C2%B7%20ML%20Researcher%20%C2%B7%20Builder%20of%20Intelligent%20Systems&descAlignY=55&descSize=16"/>
+
+<br/>
+
+[![Email](https://img.shields.io/badge/alexiamureno8%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alexiamureno8@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-0077B5?style=flat-square&logo=linkedin&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-8A2BE2?style=flat-square&logo=vercel&logoColor=white)]()
+![Location](https://img.shields.io/badge/Nairobi%2C%20Kenya-🌍-2ea44f?style=flat-square)
+
+</div>
+
+<br/>
 
 ---
 
 ## 🧬 Research Identity
 
-I am a Data Science researcher focused on building intelligent systems at the intersection of:
+I am a **Data Science researcher** building intelligent systems at the intersection of:
 
-* Machine Learning
-* Biological & Health Data
-* Real-world AI Deployment
+| Domain | Focus |
+|--------|-------|
+| 🤖 Machine Learning | Sequence modeling, temporal learning, computer vision |
+| 🧬 Biological & Health Data | Bioinformatics, computational biology, health intelligence |
+| 🚀 Real-world AI Deployment | End-to-end pipelines, scalable systems, applied research |
 
-My work explores how machines can **understand complex human and biological signals**, with emphasis on:
+My work explores how machines can understand **complex human and biological signals**, with emphasis on:
+- 🤟 Continuous sign language understanding
+- 🧬 Biological data modeling
+- 📡 Predictive intelligence systems
 
-* Continuous sign language understanding
-* Biological data modeling
-* Predictive intelligence systems.
+> *"The goal is not just to build models — but to build systems that understand complex signals and create real-world impact."*
 
-I combine a **research-driven mindset** with **practical system design**, bridging the gap between theory and real-world applications.
+I combine a **research-driven mindset** with practical system design, bridging the gap between theory and real-world application.
 
 ---
 
 ## 🔬 Research Interests
 
-* Sequence Modeling & Temporal Learning
-* Computer Vision for Human Communication
-* Bioinformatics & Computational Biology
-* Health Intelligence Systems
-* Agricultural Data Systems
+```
+🔷  Sequence Modeling & Temporal Learning
+🔷  Computer Vision for Human Communication
+🔷  Bioinformatics & Computational Biology
+🔷  Health Intelligence Systems
+🔷  Agricultural Data Systems
+```
 
 ---
 
 ## 🧠 Selected Research Work
 
-### 🧠 Voxign — Continuous Sign Language Translation
+<details open>
+<summary><b>🤟 Voxign — Continuous Sign Language Translation</b></summary>
+
+<br/>
 
 **Problem**
-Most existing systems focus on *isolated gestures*, making them ineffective in real-world continuous communication.
+> Most existing sign language systems focus on isolated gestures — making them ineffective in real-world continuous communication.
 
 **Approach**
-
-* Frame-wise feature extraction using Computer Vision
-* Temporal modeling (RNNs / Transformers — in progress)
-* Sequence-to-text translation pipeline
+- Frame-wise feature extraction using Computer Vision
+- Temporal modeling with RNNs / Transformers *(in progress)*
+- Sequence-to-text translation pipeline
 
 **Research Direction**
+- Continuous real-time translation
+- Context-aware sequence modeling
+- Multimodal learning (vision + language)
 
-* Continuous real-time translation
-* Context-aware sequence modeling
-* Multimodal learning (vision + language)
+**Stack:** `Python` `PyTorch` `Computer Vision` `React Native` `Transformers`
 
-🎥 **Demo**
+> 🎥 *Demo — coming soon*
 
-```diff
-+ (Add GIF or short demo video here — highly recommended)
-```
+[View Repository →](https://github.com/uchih-a/voxign)
 
----
+</details>
 
-### 🌍 Landiq — Land Price Intelligence System (Kenya)
+<br/>
+
+<details open>
+<summary><b>🌍 LandIQ — Land Price Intelligence System (Kenya)</b></summary>
+
+<br/>
 
 **Problem**
-Land valuation in emerging markets lacks structured, data-driven systems.
+> Land valuation in emerging markets lacks structured, data-driven systems, leading to opaque and uninformed decisions.
 
 **Approach**
-
-* Data aggregation (geospatial + economic signals)
-* Predictive modeling for price estimation
-* Visualization for decision support
+- Data aggregation from geospatial + economic signals
+- Predictive modeling for land price estimation
+- Interactive visualization for decision support
 
 **Impact**
+- Enables smarter land investment decisions
+- Introduces data transparency into land markets across Kenya
 
-* Enables smarter land investment decisions
-* Introduces transparency into land markets
+**Stack:** `Python` `Scikit-learn` `Geospatial Data` `Jupyter` `Pandas`
 
-🌐 **Live Demo**
+> 🌐 *Live demo — coming soon*
 
-```diff
-+ (Add deployment link here)
-```
+[View Repository →](https://github.com/uchih-a/landiq)
+
+</details>
 
 ---
 
 ## ⚙️ Technical Stack
 
-### 🧠 Machine Learning & Data Science
+<div align="center">
 
-* PyTorch / TensorFlow
-* Scikit-learn
-* Pandas, NumPy
-* Statistical Modeling (R)
+**🧠 Machine Learning & Data Science**
 
-### 🧬 Bioinformatics (Developing Focus)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-* High-dimensional biological data analysis
-* Computational pipelines (emerging)
+**💻 Languages**
 
-### 🌐 Systems & Development
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-* React / React Native
-* Node.js
-* Three.js (3D Visualization)
-* REST APIs & Data Pipelines
+**🌐 Systems & Development**
 
-### 🛠️ Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-* Git & GitHub
-* Jupyter Notebooks
-* Experimentation & Prototyping
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=uchih-a&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchih-a&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=ffffff"/>
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=uchih-a&theme=radical&hide_border=true&background=0D1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)
+
+</div>
+
 ---
 
 ## 🧪 Current Work
 
-* Continuous sign language translation systems
-* Bioinformatics + machine learning integration
-* Scalable ML pipelines for real-world deployment
+- 🤟 Advancing **Voxign** toward fully continuous real-time sign language translation
+- 🧬 Integrating **Bioinformatics + ML** — genomics, sequence analysis, biological pipelines
+- ⚙️ Building **scalable ML pipelines** for real-world deployment
+- 📖 Exploring research publication pathways
 
 ---
 
@@ -126,29 +163,27 @@ Land valuation in emerging markets lacks structured, data-driven systems.
 
 I am open to:
 
-* Research collaborations (ML, Bioinformatics, Health AI)
-* Open-source contributions
-* Applied AI projects in agriculture and healthcare
-
----
-
-## 📫 Contact
-
-* Email: [alexiamureno8@gmail.com](mailto:alexiamureno8@gmail.com)
-
----
-
-## 🧠 Research Philosophy
-
-> "The goal is not just to build models, but to build systems that understand complex signals and create real-world impact."
+- 🔬 **Research collaborations** — ML, Bioinformatics, Health AI, Agri-tech
+- 🛠️ **Open-source contributions** on impactful projects
+- 💡 **Applied AI projects** in agriculture and healthcare
 
 ---
 
 ## 🌐 Future Directions
 
-* Research publications / technical papers
-* Bioinformatics system development
-* Real-time AI systems for communication
-* End-to-end intelligent platforms
+```
+📄  Research publications & technical papers
+🧬  Bioinformatics system development
+📡  Real-time AI systems for human communication
+🏗️  End-to-end intelligent platforms
+```
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+*Built with curiosity. Driven by impact. Rooted in Africa.* 🌍
+
+</div>
