@@ -134,21 +134,6 @@ I combine a **research-driven mindset** with practical system design, bridging t
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=uchih-a&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchih-a&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=ffffff"/>
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=uchih-a&theme=radical&hide_border=true&background=0D1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)
-
-</div>
-
----
-
 ## 🧪 Current Work
 
 - 🤟 Advancing **Voxign** toward fully continuous real-time sign language translation
@@ -183,6 +168,6 @@ I am open to:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-*Built with curiosity. Driven by impact. Rooted in Africa.* 🌍
+*Built with curiosity. Driven by impact.* 🌍
 
 </div>
