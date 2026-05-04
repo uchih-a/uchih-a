@@ -7,7 +7,6 @@
 [![Email](https://img.shields.io/badge/alexiamureno8%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alexiamureno8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-0077B5?style=flat-square&logo=linkedin&logoColor=white)]()
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-8A2BE2?style=flat-square&logo=vercel&logoColor=white)]()
-![Location](https://img.shields.io/badge/Nairobi%2C%20Kenya-🌍-2ea44f?style=flat-square)
 
 </div>
 
