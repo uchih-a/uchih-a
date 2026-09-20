@@ -1,172 +1,140 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Uchiha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%C2%B7%20ML%20Researcher%20%C2%B7%20Builder%20of%20Intelligent%20Systems&descAlignY=55&descSize=16"/>
+[![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Uchiha&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=55&desc=Data%20Scientist%20%C2%B7%20ML%20Researcher%20%C2%B7%20Builder%20of%20Intelligent%20Systems&descAlignY=75&descSize=16)](https://github.com/uchih-a)
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Sequence+Modeling+%26+Temporal+Learning;Computer+Vision+for+Human+Communication;Bioinformatics+%26+Health+Intelligence;Building+systems+that+understand+signals)](https://git.io/typing-svg)
 
-[![Email](https://img.shields.io/badge/alexiamureno8%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alexiamureno8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-0077B5?style=flat-square&logo=linkedin&logoColor=white)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-8A2BE2?style=flat-square&logo=vercel&logoColor=white)]()
+<a href="mailto:alexiamureno8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/uchih-a"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=uchih-a&style=for-the-badge&color=7B2FFF&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br/>
-
 ---
 
-## 🧬 Research Identity
-
-I am a **Data Science researcher** building intelligent systems at the intersection of:
-
-| Domain | Focus |
-|--------|-------|
-| 🤖 Machine Learning | Sequence modeling, temporal learning, computer vision |
-| 🧬 Biological & Health Data | Bioinformatics, computational biology, health intelligence |
-| 🚀 Real-world AI Deployment | End-to-end pipelines, scalable systems, applied research |
-
-My work explores how machines can understand **complex human and biological signals**, with emphasis on:
-- 🤟 Continuous sign language understanding
-- 🧬 Biological data modeling
-- 📡 Predictive intelligence systems
-
-> *"The goal is not just to build models — but to build systems that understand complex signals and create real-world impact."*
-
-I combine a **research-driven mindset** with practical system design, bridging the gap between theory and real-world application.
-
----
-
-## 🔬 Research Interests
-
-```
-🔷  Sequence Modeling & Temporal Learning
-🔷  Computer Vision for Human Communication
-🔷  Bioinformatics & Computational Biology
-🔷  Health Intelligence Systems
-🔷  Agricultural Data Systems
+```python
+class Uchiha:
+    role        = "Data Science Researcher & ML Engineer"
+    focus       = ["Sequence Modeling", "Computer Vision", "Bioinformatics"]
+    languages   = ["Python", "SQL", "JavaScript", "R"]
+    frameworks  = ["PyTorch", "TensorFlow", "Scikit-learn", "Spark"]
+    currently   = "Building systems that understand complex human & biological signals"
+    philosophy  = "Not just models — intelligent systems with real-world impact"
 ```
 
 ---
 
-## 🧠 Selected Research Work
-
-<details open>
-<summary><b>🤟 Voxign — Continuous Sign Language Translation</b></summary>
-
-<br/>
-
-**Problem**
-> Most existing sign language systems focus on isolated gestures — making them ineffective in real-world continuous communication.
-
-**Approach**
-- Frame-wise feature extraction using Computer Vision
-- Temporal modeling with RNNs / Transformers *(in progress)*
-- Sequence-to-text translation pipeline
-
-**Research Direction**
-- Continuous real-time translation
-- Context-aware sequence modeling
-- Multimodal learning (vision + language)
-
-**Stack:** `Python` `PyTorch` `Computer Vision` `React Native` `Transformers`
-
-> 🎥 *Demo — coming soon*
-
-[View Repository →](https://github.com/uchih-a/voxign)
-
-</details>
-
-<br/>
-
-<details open>
-<summary><b>🌍 LandIQ — Land Price Intelligence System (Kenya)</b></summary>
-
-<br/>
-
-**Problem**
-> Land valuation in emerging markets lacks structured, data-driven systems, leading to opaque and uninformed decisions.
-
-**Approach**
-- Data aggregation from geospatial + economic signals
-- Predictive modeling for land price estimation
-- Interactive visualization for decision support
-
-**Impact**
-- Enables smarter land investment decisions
-- Introduces data transparency into land markets across Kenya
-
-**Stack:** `Python` `Scikit-learn` `Geospatial Data` `Jupyter` `Pandas`
-
-> 🌐 *Live demo — coming soon*
-
-[View Repository →](https://github.com/uchih-a/landiq)
-
-</details>
-
----
-
-## ⚙️ Technical Stack
+## ⚡ Research Domains
 
 <div align="center">
 
-**🧠 Machine Learning & Data Science**
+| 🤖 Machine Learning | 🧬 Bioinformatics | 🌍 Applied AI |
+|:---:|:---:|:---:|
+| Sequence modeling | Genomic data pipelines | Land intelligence (Kenya) |
+| Temporal learning | Computational biology | Agricultural AI |
+| Computer Vision | Health data systems | Real-world deployment |
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+</div>
 
-**💻 Languages**
+---
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+## 🔬 Flagship Projects
+
+### 🤟 Voxign — Continuous Sign Language Translation
+> *Bridging human communication through AI*
+
+- Frame-wise feature extraction with Computer Vision
+- Temporal modeling with RNNs & Transformers *(in progress)*
+- End-to-end sequence-to-text translation pipeline
+- **Goal:** Real-time, context-aware continuous translation
+
+`Python` `PyTorch` `Computer Vision` `React Native` `Transformers`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-Voxign-7B2FFF?style=for-the-badge&logo=github)](https://github.com/uchih-a/voxign)
+
+---
+
+### 🌍 LandIQ — Land Price Intelligence (Kenya)
+> *Data transparency for emerging real estate markets*
+
+- Geospatial + economic signal aggregation
+- Predictive land price modeling
+- Interactive decision-support visualization
+- **Impact:** Smarter land investment across Kenya
+
+`Python` `Scikit-learn` `Geospatial Data` `Jupyter` `Pandas`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-LandIQ-00E5FF?style=for-the-badge&logo=github)](https://github.com/uchih-a/landiq)
+
+---
+
+## 🧠 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-**🌐 Systems & Development**
+**ML & Data**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Tools & Dev**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=uchih-a&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050A14&title_color=7B2FFF&icon_color=00E5FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchih-a&layout=compact&theme=tokyonight&hide_border=true&bg_color=050A14&title_color=7B2FFF&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=uchih-a&theme=tokyonight&hide_border=true&background=050A14&ring=7B2FFF&fire=00E5FF&currStreakLabel=00E5FF)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🧪 Current Work
+## 🚀 Currently Building
 
-- 🤟 Advancing **Voxign** toward fully continuous real-time sign language translation
-- 🧬 Integrating **Bioinformatics + ML** — genomics, sequence analysis, biological pipelines
-- ⚙️ Building **scalable ML pipelines** for real-world deployment
-- 📖 Exploring research publication pathways
+```
+🤟  Voxign → real-time continuous sign language translation
+🧬  Bioinformatics + ML → genomic sequence analysis pipelines
+⚙️  Scalable ML deployment → production-ready intelligent systems
+📖  Research publication → sharing findings with the community
+```
 
 ---
 
-## 🤝 Collaboration & Opportunities
-
-I am open to:
+## 🤝 Open To
 
 - 🔬 **Research collaborations** — ML, Bioinformatics, Health AI, Agri-tech
-- 🛠️ **Open-source contributions** on impactful projects
-- 💡 **Applied AI projects** in agriculture and healthcare
-
----
-
-## 🌐 Future Directions
-
-```
-📄  Research publications & technical papers
-🧬  Bioinformatics system development
-📡  Real-time AI systems for human communication
-🏗️  End-to-end intelligent platforms
-```
+- 🛠️ **Open-source contributions** on high-impact projects
+- 💡 **Applied AI** in healthcare and agriculture
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)](https://github.com/uchih-a)
 
 *Built with curiosity. Driven by impact.* 🌍
 
