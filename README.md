@@ -1,17 +1,6 @@
-<!-- INTRO: terminal gh user view style -->
-<div align="center">
+<!-- NEOFETCH — live animated SVG, auto-regenerated every 12h via GitHub Actions --> <div align="center">
 
-```
-uchih-a@ubuntu:~$ gh user view uchih-a
-Fetching data from GitHub API...
-✓ Success! Generated GitHub stats for 'uchih-a'.
-```
-
-[![github stats terminal](https://github-readme-insight-terminal-asci.vercel.app/svg/stats?user=uchih-a&theme=ubuntu&scale=0.95)](https://github.com/uchih-a)
-
-```
-uchih-a@ubuntu:~$
-```
+Show Image
 
 </div>
 
