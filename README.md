@@ -1,12 +1,12 @@
-<!-- NEOFETCH — live animated SVG, auto-regenerated every 12h via GitHub Actions --> <div align="center">
+<!-- NEOFETCH — live animated SVG, auto-regenerated every 12h via GitHub Actions -->
+<div align="center">
 
-Show Image
+![neofetch](https://raw.githubusercontent.com/uchih-a/uchih-a/output/neofetch.svg)
 
 </div>
 
 ---
 
-<!-- PROJECTS -->
 ## 📁 Projects
 
 <div align="center">
@@ -54,7 +54,7 @@ Geospatial + economic signal aggregation → predictive land valuation → inter
 ### 🏗️ [Enterprise Data Warehouse](https://github.com/uchih-a/Enterprise-Data-Warehouse)
 **Scalable Analytics Pipeline**
 
-End-to-end data warehouse design — ingestion, transformation, and reporting layers for enterprise analytics.
+End-to-end data warehouse design — ingestion, transformation, and reporting layers.
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -69,7 +69,7 @@ End-to-end data warehouse design — ingestion, transformation, and reporting la
 ### 🌱 [Stockify Agrovet](https://github.com/uchih-a/Stockify-Agrovet)
 **Agricultural Inventory Intelligence**
 
-Smart stock management system for agrovet businesses — tracking, analytics, and restocking intelligence.
+Smart stock management for agrovet businesses — tracking, analytics, and restocking AI.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -86,7 +86,6 @@ Smart stock management system for agrovet businesses — tracking, analytics, an
 
 ---
 
-<!-- SNAKE ANIMATED CONTRIBUTION GRAPH -->
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -101,7 +100,6 @@ Smart stock management system for agrovet businesses — tracking, analytics, an
 
 ---
 
-<!-- CONTACT CARDS -->
 ## 📬 Contact
 
 <div align="center">
