@@ -1,21 +1,17 @@
-<!-- INTRO SVG — GitHub Neofetch style (Octocat ASCII + profile fields) -->
+<!-- INTRO: terminal gh user view style -->
 <div align="center">
 
-[![neofetch](https://github-readme-insight-terminal-asci.vercel.app/svg/stats?user=uchih-a&theme=ubuntu&scale=1)](https://github.com/uchih-a)
+```
+uchih-a@ubuntu:~$ gh user view uchih-a
+Fetching data from GitHub API...
+✓ Success! Generated GitHub stats for 'uchih-a'.
+```
 
-</div>
+[![github stats terminal](https://github-readme-insight-terminal-asci.vercel.app/svg/stats?user=uchih-a&theme=ubuntu&scale=0.95)](https://github.com/uchih-a)
 
----
-
-<!-- STATS + LANGUAGES side by side -->
-<div align="center">
-
-<a href="https://github.com/uchih-a">
-  <img height="200" src="https://github-readme-insight-terminal-asci.vercel.app/svg/stats?user=uchih-a&theme=ubuntu&scale=0.9" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/uchih-a">
-  <img height="200" src="https://github-readme-insight-terminal-asci.vercel.app/svg/top-language?user=uchih-a&theme=ubuntu&top=8&scale=0.9" alt="Top Languages"/>
-</a>
+```
+uchih-a@ubuntu:~$
+```
 
 </div>
 
@@ -26,7 +22,6 @@
 
 <div align="center">
 
-<!--  Row 1 -->
 <table>
 <tr>
 
@@ -102,12 +97,16 @@ Smart stock management system for agrovet businesses — tracking, analytics, an
 
 ---
 
-<!-- COMMIT HEATMAP — Ubuntu theme -->
-## 📊 Contribution Heatmap
+<!-- SNAKE ANIMATED CONTRIBUTION GRAPH -->
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![GitHub contribution heatmap](https://github-readme-insight-terminal-asci.vercel.app/svg?user=uchih-a&theme=ubuntu)](https://github.com/uchih-a)
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/uchih-a/uchih-a/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uchih-a/uchih-a/output/snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/uchih-a/uchih-a/output/snake.svg">
+</picture>
 
 </div>
 
